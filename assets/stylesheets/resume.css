@@ -1,0 +1,37 @@
+.main-brand {
+  font-size: 50px;
+  text-align: center;
+  font-weight: normal;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 50px 0;
+  margin-bottom: -29px;
+}
+
+.contact-info {
+  font-style: italic;
+  text-align: center;
+  border-bottom: 1px solid black;
+}
+
+.story-title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.story-text { 
+  line-height: 1.6;
+}
+
+.main-brand {
+  text-align: center;
+}
+
+.story {
+  margin-top: 40px;
+}
+  
+  
+  
+  
+  

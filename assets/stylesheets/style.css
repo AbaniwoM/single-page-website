@@ -1,0 +1,73 @@
+body {
+    margin: 0;
+}
+
+.bg {
+    background:linear-gradient(0deg, rgba(255, 0, 149, 0.178), rgba(255, 0, 149, 0.191)), url(../images/holiday-hotel-las-vegas-6534.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: 'Acme', sans-serif;
+    color: rgba(255, 255, 255, 0.87);
+    overflow: scroll;
+    padding: 10px 0px;
+}
+
+
+.welcome-wrapper {
+    height: 60%;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.5em;
+    background-color: rgba(60, 17, 53, 0.98);
+    border-radius: 0.5em;
+}
+
+.welcome-text {
+    font-size: 2.5em;
+}
+
+.about-me {
+    justify-content: center;
+    display: flex;
+    font-size: 3em;
+    color: rgb(231, 215, 215)
+
+}
+
+.action-buttons {
+    width: 14em;
+    border-radius: 0.5em;
+    margin: 1em;
+    padding: 1em;
+    cursor: pointer;
+}
+
+.action-buttons:hover {
+    background-color: rgba(240, 208, 240, 0.568);
+}
+
+
+button.action-buttons > span {
+    font-family: 'Acme', sans-serif;
+    font-size: 25px;
+    color: rgba(60, 17, 53, 0.98);
+}
+
+img {
+    margin: 10px;
+    height: auto;
+    width: 50%;
+}

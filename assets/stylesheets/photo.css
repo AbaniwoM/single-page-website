@@ -1,0 +1,13 @@
+.photos {
+  text-align: center;
+}
+
+.photo-content {
+  background-color: rgb(202, 157, 157);
+}
+
+.photos {
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  font-display: bold;
+}
